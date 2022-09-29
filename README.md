@@ -1,2 +1,2 @@
 # TestRepo
-## Just a teste repo 
+## Just a test repo 
